@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\obj\Debug\LancKodV2.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\obj\Debug\LancKodV2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\bin\Debug\LancKodV2.exe.config
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\bin\Debug\LancKodV2.exe
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\bin\Debug\LancKodV2.pdb
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\obj\Debug\LancKodV2.exe
+C:\Users\hp\source\repos\LancKodV2\LancKodV2\obj\Debug\LancKodV2.pdb
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\bin\Debug\LancKodV2.exe.config
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\bin\Debug\LancKodV2.exe
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\bin\Debug\LancKodV2.pdb
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\obj\Debug\LancKodV2.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\obj\Debug\LancKodV2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\obj\Debug\LancKodV2.exe
+C:\Users\hp\source\repos\LancKodV2new\LancKodV2\obj\Debug\LancKodV2.pdb
