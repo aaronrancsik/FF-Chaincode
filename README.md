@@ -1,6 +1,13 @@
 # FF-Chaincode
 OE NIK Half year project work
 
-![alt text](./Tutorial/chain.png)
+The base documentation.
+[Intro.pdf](./docs/docFromTeacher.pdf)
 
-![alt text](./Tutorial/ui.png)
+And the program.
+
+![chain picture](./Tutorial/chain.png)
+Here you can see the result code for the input.
+
+![ui picture](./Tutorial/ui.png)
+And the result graphical representation
