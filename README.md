@@ -6,8 +6,8 @@ The base documentatio:
 
 And the program.
 
-![chain picture](./Tutorial/chain.png)
-\n Here you can see the result code for the input.
+![chain picture](./Tutorial/chain.png)__
+Here you can see the result code for the input.
 
-![ui picture](./Tutorial/ui.png)
+![ui picture](./Tutorial/ui.png)__
 And the result graphical representation
